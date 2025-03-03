@@ -5,7 +5,7 @@ This dataset contains information on customers who purchase clothes online. The 
 ## Project Overview
  
 This project involves:
-unordered
+
 + Loading and exploring the dataset
 + Performing exploratory data analysis (EDA)
 + Building a linear regression model to predict yearly spending
@@ -13,7 +13,7 @@ unordered
 + Conducting residual analysis to verify assumptions
 
   ## Steps
-  ordered
+
   1. Importing Necessary Libraries
   2. Loading and Exploring the Dataset
   3. Exploratory Data Analysis (EDA)
@@ -25,7 +25,6 @@ unordered
 
   ## Conclusion
 
-  unordered
   + EDA helps understand relationships between variables
   + Linear Regression models how different features impact yearly spending
   + Performance metrics evaluate the model's effectiveness
